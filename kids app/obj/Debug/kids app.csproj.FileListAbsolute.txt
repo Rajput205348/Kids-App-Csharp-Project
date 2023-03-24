@@ -1,0 +1,16 @@
+C:\Users\alifa\source\repos\kids app\kids app\bin\Debug\kids app.exe.config
+C:\Users\alifa\source\repos\kids app\kids app\bin\Debug\kids app.exe
+C:\Users\alifa\source\repos\kids app\kids app\bin\Debug\kids app.pdb
+C:\Users\alifa\source\repos\kids app\kids app\obj\Debug\kids app.csproj.AssemblyReference.cache
+C:\Users\alifa\source\repos\kids app\kids app\obj\Debug\kids_app.Form1.resources
+C:\Users\alifa\source\repos\kids app\kids app\obj\Debug\kids_app.Properties.Resources.resources
+C:\Users\alifa\source\repos\kids app\kids app\obj\Debug\kids app.csproj.GenerateResource.cache
+C:\Users\alifa\source\repos\kids app\kids app\obj\Debug\kids app.csproj.CoreCompileInputs.cache
+C:\Users\alifa\source\repos\kids app\kids app\obj\Debug\kids app.exe
+C:\Users\alifa\source\repos\kids app\kids app\obj\Debug\kids app.pdb
+C:\Users\alifa\source\repos\kids app\kids app\obj\Debug\kids_app.Form4.resources
+C:\Users\alifa\source\repos\kids app\kids app\obj\Debug\kids_app.Animals.resources
+C:\Users\alifa\source\repos\kids app\kids app\obj\Debug\kids_app.Birds.resources
+C:\Users\alifa\Documents\GitHub\Kids-App-Csharp-Project\kids app\obj\Debug\kids app.csproj.AssemblyReference.cache
+C:\Users\alifa\Documents\GitHub\Kids-App-Csharp-Project\kids app\obj\Debug\kids app.exe
+C:\Users\alifa\Documents\GitHub\Kids-App-Csharp-Project\kids app\obj\Debug\kids app.pdb
